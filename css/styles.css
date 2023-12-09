@@ -1,0 +1,143 @@
+
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.profile-card {
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.editable-field {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.editable-field:focus {
+  outline: none;
+  border-color: #007bff;
+}
+
+
+body {
+  background-color: #f4f4f4;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.profile-card {
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.editable-field {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.editable-field:focus {
+  outline: none;
+  border-color: #007bff;
+}
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+  color: #444;
+}
+
+.container {
+  width: 40%; 
+  margin: 30px auto;
+  overflow: hidden;
+  background-color: #666;
+}
+
+
+header {
+  background: #555;
+  color: #fff;
+  padding: 20px 0; 
+  text-align: center;
+}
+
+header h1 {
+  margin: 10px 0; /* Adjusted margin */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav ul li {
+  display: inline-block; 
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #eee; 
+  text-decoration: none;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px; 
+  margin: 15px 0; 
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  background-color: #555;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #777; 
+}
+
+/* Form styles */
+form {
+  margin-bottom: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px; 
+}
+
+.form-control {
+  width: 90%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #999; 
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 30px 0; 
+  background: #555;
+  color: #fff;
+}
